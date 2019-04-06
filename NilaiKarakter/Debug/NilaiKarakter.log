@@ -1,0 +1,6 @@
+﻿  Source.c
+d:\rizky hafitsyah's documents\belajar pemrograman\latihan\c\nilaikarakter\nilaikarakter\source.c(30): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\rizky hafitsyah's documents\belajar pemrograman\latihan\c\nilaikarakter\nilaikarakter\source.c(30): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\rizky hafitsyah's documents\belajar pemrograman\latihan\c\nilaikarakter\nilaikarakter\source.c(30): note: the missing variadic argument 2 is required by format string '%c'
+  d:\rizky hafitsyah's documents\belajar pemrograman\latihan\c\nilaikarakter\nilaikarakter\source.c(30): note: this argument is used as a buffer size
+  NilaiKarakter.vcxproj -> D:\Rizky Hafitsyah's Documents\BELAJAR PEMROGRAMAN\LATIHAN\C\NilaiKarakter\Debug\NilaiKarakter.exe
